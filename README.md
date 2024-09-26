@@ -2,7 +2,7 @@
 
 This project focuses on analyzing data from a Bike Buyers dataset in Excel. The objective was to clean and organize the data, create meaningful pivot tables, and design an interactive dashboard for exploring customer insights.
 
-<img src="https://github.com/user-attachments/assets/1bc4785c-99fe-4227-93bb-8f7aacac91f3" width="75%"/>
+<img src="https://github.com/user-attachments/assets/b8cb3ea4-9039-490d-b283-f80f195ccd12" width="80%"/>
 
 ## Project Overview
 
