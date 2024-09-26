@@ -11,7 +11,7 @@ This project focuses on analyzing data from a Bike Buyers dataset in Excel. The 
 ## Key Features
 
 ### 1. Data Cleaning
-- **Gender**: Replaced `M`/`F` values with `Male` and `Female` for clarity.
+- **Gender**: Replaced `M`/`F` values with `Male` and `Female`
 - **Age Brackets**: Added an `Age Brackets` column to categorize ages into:
   - **Adolescent**: 18–30
   - **Middle Age**: 31–50
@@ -25,11 +25,11 @@ This project focuses on analyzing data from a Bike Buyers dataset in Excel. The 
   
 - **Pivot 2: Customer Commute Distance**
   - **Description**: Shows customer commute distance compared to bike purchases (Yes/No).
-  - **Chart Type**: Line chart with two lines representing purchased vs. not purchased.
+  - **Chart Type**: Line chart with two lines representing bike purchased vs. not purchased.
   
 - **Pivot 3: Customer Age Bracket**
   - **Description**: Analyzes bike purchases across different age brackets (Adolescent, Middle Age, Old).
-  - **Chart Type**: Bar chart with a legend for bike purchase (Yes/No).
+  - **Chart Type**: Line chart with two lines representing bike purchased vs. not purchased.
 
 ### 3. Dashboard Overview
 The dashboard includes:
@@ -43,5 +43,4 @@ The dashboard includes:
   - **Education**: Filter by education level (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
 
 ### 4. Files
-- **bike_sales_dashboard.xlsx**: Contains the pivot tables, visuals, and the dashboard.
-- **working_sheet.xlsx**: Data cleaning sheet where data was cleaned without altering the original dataset.
+- **BikeSales.xlsx**: Contains the Data sheet, pivot tables, visuals, and the dashboard.
